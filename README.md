@@ -2,7 +2,7 @@
   Hi there 👋🏼 I'm bitxer 👨🏼‍💻
 </h1>
 
-<p align='center'>🎓SP-DISM, NUS-ISC | GCFA | OSWE | OSCP</p>
+<p align='center'>🎓SP-DISM, NUS-ISC | GCFA | OSED | OSWE | OSCP</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bitxer&show_icons=true&count_private=true&theme=dark" width="350"></a>
